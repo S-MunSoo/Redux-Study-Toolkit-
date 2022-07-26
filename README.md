@@ -1,4 +1,6 @@
-## Redux Study
+# Redux Study
+
+https://user-images.githubusercontent.com/102017296/180958638-3058f091-251e-406c-b41c-8cad32c54a78.mov
 
 ### 학습목표
 
